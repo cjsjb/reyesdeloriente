@@ -127,7 +127,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-baritono" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-baritono" {
 		% intro
 		La la la la la la,
 		la la la la la la,

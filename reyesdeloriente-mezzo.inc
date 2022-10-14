@@ -119,7 +119,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzosoprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzosoprano" {
 		% intro
 		La la la la la la,
 		la la la la la la,
