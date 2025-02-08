@@ -138,7 +138,7 @@
 		la la la la la la,
 		la la la la la la.
 
-		% Magos del Oriente...
+		% Magos del Oriente van hacia Belén...
 		Ma -- gos del O -- rien -- te
 		van ha -- cia Be -- lén,
 		van "a a" -- rro -- di -- llar -- se
@@ -152,13 +152,13 @@
 		Glo -- ria se -- "a a" Dios,
 		a Dios, a Dios.
 
-		% Magos del Oriente...
+		% Magos del Oriente buscan a Jesús...
 		Ma -- gos del O -- rien -- te
-		van ha -- cia Be -- lén,
-		van "a a" -- rro -- di -- llar -- se
-		an -- "te el" ni -- ño rey,
-		van "a a" -- rro -- di -- llar -- se
-		an -- "te el" ni -- ño rey.
+		bus -- can a Je -- sús,
+		si -- guen a "la es" -- tre -- lla
+		de más be -- lla luz,
+		si -- guen a "la es" -- tre -- lla
+		de más be -- lla luz.
 
 		% Gloria sea a Dios...
 		Glo -- ria se -- "a a" Dios,
@@ -166,7 +166,7 @@
 		Glo -- ria se -- "a a" Dios,
 		a Dios, a Dios.
 
-		% Venid adoremos...
+		% Venid adoremos al hijo de Dios...
 		Ve -- nid, a -- do -- re -- mos
 		al hi -- jo de Dios.
 		De -- mos glo -- "ria al" Pa -- dre
